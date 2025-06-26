@@ -8,6 +8,7 @@ Computer Science Student at Assumption University of Thailand
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [minthetn15@gmail.com](mailto:minthetn15@gmail.com)
+* This is my portfolio ( https://minthetnaung-portfolio.vercel.app/ )
 * 🧠  I'm learning NextJs
 
 ### Skills
